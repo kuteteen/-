@@ -9,4 +9,4 @@
 
 4.将以上域名对接到远程一键修改代码中 ，生成dylib ，注入APP ，签名安装。
 
-## 官网：https:iosgods.cn
+## 官网：https//:iosgods.cn
